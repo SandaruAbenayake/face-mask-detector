@@ -24,6 +24,8 @@ face-mask-detector-Repo/
 
 ├── best_model.h5                       # Trained model
 
+├── kaggle_dataset_link                 #dataset
+
 ├── requirements.txt                    # Dependencies list
 
 ├── README.md                           # Project instructions
